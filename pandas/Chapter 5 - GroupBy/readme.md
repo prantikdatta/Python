@@ -1,4 +1,3 @@
-
 # Chapter 5: GroupBy Operations in Pandas
 
 ## Introduction
